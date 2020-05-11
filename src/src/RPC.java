@@ -14,7 +14,7 @@ public class RPC {
             System.out.println("유저 승리");
         else if(result == 0)
             System.out.println("무승부");
-        else
+        else // if((user + 1) % 3 == com), %연산을 이용하면 다양한 코드를 작성 할 수 있음
             System.out.println("유저 패배");
     }
 }
