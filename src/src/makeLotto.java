@@ -1,6 +1,6 @@
 package src;
 
-public class makeLotto {
+public class MakeLotto {
     public static void main(String[] args) {
         int lotto[] = new int[6];
         for (int i = 0; i < lotto.length; i++) {

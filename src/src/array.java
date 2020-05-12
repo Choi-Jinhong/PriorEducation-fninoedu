@@ -1,6 +1,6 @@
 package src;
 
-public class array {
+public class Array {
     public static void main(String[] args) {
         int array[][] = new int[3][3];
         for(int i = 0; i < 3; i++){

@@ -1,7 +1,7 @@
 package src;
 
 public class Method {
-    static double getAverage(int sum, int ea){
+    static double getAverage(int sum, double ea){
         return sum/ea; // 연산시 최대 범위의 자료형을 따라가게 됨
     }
 
